@@ -16,5 +16,5 @@ A narrator's voice introduces a malignant entity that completely disrupts the ba
 
 Some original dialogues were kept in the new soundtrack using OpenVINO AI effects to separate the voices from the instrumentals.
    
-Edited trailer: [https://javerianacaliedu-my.sharepoint.com/:f:/g/personal/vfgustin_javerianacali_edu_co/Et3ZDEVaUUtBloFO-TvSUhgBcjIf6KvsDGxDYiBdkKolFg?e=xtaGWI](http://www.limni.net)
-Original trailer: [https://www.youtube.com/watch?v=QdBZY2fkU-0](http://www.limni.net)
+- [Edited trailer]([http://www.limni.net](https://javerianacaliedu-my.sharepoint.com/:f:/g/personal/vfgustin_javerianacali_edu_co/Et3ZDEVaUUtBloFO-TvSUhgBcjIf6KvsDGxDYiBdkKolFg?e=xtaGWI))
+- [Original Trailer]([http://www.limni.net](https://www.youtube.com/watch?v=QdBZY2fkU-0))
